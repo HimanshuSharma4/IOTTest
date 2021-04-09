@@ -1,0 +1,15 @@
+.humi {
+    display: flex;
+    align-items: center;
+    margin-top: 0;
+    background: linear-gradient(to bottom right, rgb(118, 205, 255), rgba(0, 0, 0, 0));
+    
+}
+
+.humi_header{
+    margin-top: 10px;
+    margin-left:auto;
+    margin-right: auto;
+    color: whitesmoke;
+    display: flex;
+}
